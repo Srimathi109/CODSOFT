@@ -11,17 +11,17 @@
 3.Javascript
 
 ## Live Demo
-
+https://srimathi109.github.io/CODSOFT/
 
 ## Video Demo
 [▶ Watch the project demo](#)
 
 ## Goal
-- The main goal of the project is to learn to use HTML and CSS and to create a responsive website and user-friendly design. It also serves as a showcase of my capabilities to future collaborators and employers.
+- The main goal of the project is to learn to use HTML,CSS,Javascript and to create a interactive calculator.
 
 ## 📬 Contact
 - 📧 Email: srimathi2410307@ssn.edu.in
-- 🔗 LinkedIn: [https://www.linkedin.com/in/sreenath-g-81414a326/]
+- 🔗 LinkedIn: www.linkedin.com/in/srimathib06
 
 ## 📢 Hashtags for LinkedIn Post
-`#codsoft` `#webdevelopment` `#portfolio` `#internship`
+`#Codsoft` `#Webdevelopment`  `#Internship`
