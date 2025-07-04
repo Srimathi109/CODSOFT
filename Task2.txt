@@ -10,7 +10,7 @@
 
 
 ## Live Demo
-https://srimathi109.github.io/CODSOFT/Landing Page.html
+https://srimathi109.github.io/CODSOFT/Task2.html
 
 ## Video Demo
 [▶ Watch the project demo](#)
