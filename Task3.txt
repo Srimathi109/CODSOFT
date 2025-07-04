@@ -11,7 +11,7 @@
 3.Javascript
 
 ## Live Demo
-https://srimathi109.github.io/CODSOFT/
+https://srimathi109.github.io/CODSOFT/Task3.html
 
 ## Video Demo
 [▶ Watch the project demo](#)
