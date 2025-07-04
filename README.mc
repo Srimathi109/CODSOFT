@@ -23,4 +23,4 @@ https://srimathi109.github.io/CODSOFT/index.html
 - 🔗 LinkedIn: www.linkedin.com/in/srimathib06
 
 ## 📢 Hashtags for LinkedIn Post
-`#Codsoft` `#Webdevelopment`  `#Internship`
+`#Codsoft` `#Webdevelopment`  `#Internship` '#LandingPage'
