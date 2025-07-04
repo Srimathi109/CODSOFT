@@ -10,7 +10,7 @@
 
 
 ## Live Demo
-https://srimathi109.github.io/CODSOFT/index.html
+https://srimathi109.github.io/codsoft_taskno.2/
 
 ## Video Demo
 https://www.linkedin.com/posts/srimathib06_codsoft-webdevelopment-internship-activity-7346896050504228864-4Q72?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFMD_AMBNmy5RLYeHukpb-CeUkfPIvfdFEY
