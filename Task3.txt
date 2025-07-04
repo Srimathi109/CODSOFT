@@ -14,7 +14,7 @@
 https://srimathi109.github.io/CODSOFT/Task3.html
 
 ## Video Demo
-[▶ Watch the project demo](#)
+https://www.linkedin.com/posts/srimathib06_codsoft-webdevelopment-internship-activity-7346897112602718209-g54C?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFMD_AMBNmy5RLYeHukpb-CeUkfPIvfdFEY
 
 ## Goal
 - The main goal of the project is to learn to use HTML,CSS,Javascript and to create a interactive calculator.
