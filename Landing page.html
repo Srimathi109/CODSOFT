@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+    <title>Landing Page</title>
+    <style>
+        *{
+            margin:0px;
+            padding: 0px;
+            box-sizing: border-box;
+        }
+        nav ul{
+            text-align: center;
+            margin-top: 0px;
+            padding: 20px;
+            border-top: 1px solid aliceblue;
+            background-color: black;
+        }
+        nav ul li{
+            margin: 20px;
+            list-style:none;
+            display:inline;
+            padding:20px;
+        }
+        nav ul li a{
+            color:aliceblue;
+            font-size: 25px;
+            font-weight: bold;
+            text-align: right;
+            text-decoration:none;
+        }
+        nav ul li a:hover{
+            color:black;
+            background-color:gainsboro;
+        }
+        .name{
+            text-align: center;
+            font-size:60px;
+            background-color: black;
+            color:aliceblue;
+            padding: 20px;
+            font-style: italic;
+            font-weight:bold;
+        }
+        #about{
+            color:aliceblue;
+            font-size:25px;
+            background-color: black;
+        }
+
+        #services{
+            background-color: black;
+            color:aliceblue;
+            font-size:25px;
+            padding-bottom: 30px;
+        }
+        #services ul li{
+            padding-left: 10px;
+            padding: 10px;
+        }
+        #booking{
+            background-color: black;
+            color:aliceblue;
+            padding-bottom: 30px;
+            font-size: 25px;
+        }
+        #booking p{
+            font-size: 40px;
+            padding-left:30px;
+        }
+        #contact{
+            color: aliceblue;
+            padding-bottom: 30px;
+            background-color: black;
+            font-size: 25px;
+        }
+        #contact .icons img{
+            width:50px;
+            height:50px;
+        }
+        #contact .icons{
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            text-align: center;
+        }
+        #contact .icons a{
+            color:rgb(247, 11, 184);
+            font-size: 20px;
+        }
+        #contact .icons a:hover{
+            color:blueviolet;
+        }
+        button:hover{
+            background-color:rgb(139, 134, 134);
+        }
+        footer{
+            background-color: black;
+            color:aliceblue;
+            text-align: center;
+            bottom:0;
+            padding: 30px;
+            position: relative;
+            font-size:20px;
+            
+        }
+    </style>
+    <body>
+        <header>
+            <nav class="navbar">
+                <div class="nav-container"></div>
+                    <div class="name">Wander World Tourism</div>
+                    <ul class="nav-links">
+                        <li><a href="#home">Home</a></li>
+                        <li><a href="#about">About</a></li>
+                        <li><a href="#services">Services</a></li>
+                        <li><a href="#booking">Book Now</a></li>
+                        <li><a href="#contact">Contact us</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </header>
+        <section id="home">
+        <div style="background-image: url('https://i.pinimg.com/736x/4f/90/85/4f908590e62c182c5cec75a35aef38a5.jpg');background-size:contain; background-position: center;display: flex; align-items: center; justify-content: center; color: white; font-size:80px; font-weight: bold;background-repeat: no-repeat;background-color: black;height:100vh;width:100vw;">
+            <p>"Explore The Joy Of Living"</p>
+        </div>
+        </section>
+        <section id="about">
+            <h1 style="padding:30px;">About Wander World Tourism</h1>
+            <article style="padding-left:30px;padding-bottom: 30px;">At Wander World Travels, we believe travel isn't just about the destination - it's about the experience. We're a passionate team of globe-trotters, storytellers, and planners dedicated to crafting unforgettable journeys that inspire, connect, and transform.
+From breathtaking landscapes to hidden local gems, we design custom travel experiences that suit every kind of wanderer - solo explorers, romantic getaways, family vacations, and group adventures. Whether you're craving the serenity of the mountains, the pulse of vibrant cities, or the calm of a beach escape, we bring your dream journey to life.
+With a focus on authenticity, sustainability, and seamless service, we go beyond just booking trips - we curate memories.</article>
+        </section>
+        <section id="services">
+            <h1 style="padding: 30px;">Our Services</h1>
+            <img src="https://static.vecteezy.com/system/resources/previews/004/929/053/large_2x/travel-and-tourism-banner-design-with-boarder-frame-travel-text-and-famous-landmarks-and-tourist-destination-elements-in-blue-background-illustration-vector.jpg" alt="tour" style="width: 500px;height:400px;float:right;border-radius:30px;margin-right:40px;margin-bottom:10px;">
+            <ul style="padding-left:50px;">
+                <h4>✈️Tailored Itineraries:</h4><li>Every trip is designed around your interests, style, and pace.</li>
+                <h4>🌍Local Expertise:</h4><li>We partner with experienced guides and local hosts to give you insider access.</li>
+                <h4>💬Hassle-Free Planning:</h4><li>From flights and stays to experiences and logistics - we handle it all</li>
+                <h4>📞24/7 Support:</h4><li>Wherever you are, we’re just a call or message away.</li>
+            </ul>
+        </section>
+        <section id="booking">
+            <h1 style="padding:30px;">For Bookings</h1>
+            <p style="padding-left:100px;font-style: italic;font-weight: bold;">"Let’s turn your travel dreams into reality."</p>
+            <p>Click below to start planning your perfect getaway.</p>
+            <img src="https://fastpng.com/images/file/blank-plane-ticket-png-download-transparent-air-ticket-png-png-download-gtnlbpnzks6ucfne.png" alt="pass" style="width: 450px;height:300px;float:right;margin-right:30px ;">
+            <center><button style="width:130px;text-align: center;height:40px;border-radius:20px;font-weight: bold;margin-top: 20px;">👉BOOK NOW</button></center>
+        </section>
+        <section id="contact">
+            <h1 style="padding: 30px;">Contact details</h1>
+            <p style="padding-left: 30px;">Customer care:📞044-42432342/044-45454545</p>
+            <p style="padding-left: 30px;">Email:<a href="" style="color:rgb(247, 11, 184);">wanderworld@yahoo.com</a></p>
+            <p style="padding-left: 30px;">Follow us on:<p>
+            <div class="icons">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="icon"><a href="" style="border-right: 1px solid aliceblue;padding-right: 20px;">Instagram</a>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="ticon"><a href="" style="border-right: 1px solid aliceblue;padding-right: 20px;">Telegram</a>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" alt="ficon"><a href="">Facebook</a>
+            </div>
+        </section>
+        <footer>
+            <p>&copy;2025 All rights reserved</p>
+            <p style="padding:5px;">JP Nagar,OMR Road,Chennai,India-603 110</p>
+        </footer>
+    </body>
+</html>
