@@ -1,6 +1,6 @@
 -This is my project repository for the "CODSOFT" Internship done during my summer vacation 2025.
 
-##Landing Page: Level-1: Task-2.
+## LANDING PAGE Level-1: Task-2.
 - This project is created as a part of *CODSOFT WEB DEVELOPMENT INETRNSHIP 2025*.
 - This porject showcases my skills and performance in HTML,CSS and  aimed at building a landing page.
 
