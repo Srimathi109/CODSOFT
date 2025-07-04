@@ -13,7 +13,7 @@
 https://srimathi109.github.io/CODSOFT/index.html
 
 ## Video Demo
-[▶ Watch the project demo](#)
+https://www.linkedin.com/posts/srimathib06_codsoft-webdevelopment-internship-activity-7346896050504228864-4Q72?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFMD_AMBNmy5RLYeHukpb-CeUkfPIvfdFEY
 
 ## Goal
 - The main goal of the project is to learn to use HTML,CSS and to create a landing page.
